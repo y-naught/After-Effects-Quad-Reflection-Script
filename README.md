@@ -1,4 +1,4 @@
-# After-EFfects-Scripts
+# After-Effects-Quad-Reflection-Script
 
 
 ## Created by Greg King
